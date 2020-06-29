@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 93b8625a177f6d247afb83d418f583db
+labels:
+- gun
+- tower
+- turret
+- sci-fi
+- tdtk
+- modular
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Antenna1
+    100002: Antenna2
+    100004: Base1
+    100006: Camera
+    100008: Gun1
+    100010: Gun2
+    100012: Gun3
+    100014: Gun4
+    100016: Gun5
+    100018: Gun6
+    100020: Lamp
+    100022: Misc1
+    100024: //RootNode
+    100026: Radar1
+    100028: RotateFitter
+    100030: Turret1
+    100032: Turret2
+    100034: Turret2MissilePod
+    100036: Turret3
+    100038: Turret4
+    100040: TurretD1
+    100042: TurretD1Sub
+    100044: TurretD2
+    100046: TurretD2Sub
+    400000: Antenna1
+    400002: Antenna2
+    400004: Base1
+    400006: Camera
+    400008: Gun1
+    400010: Gun2
+    400012: Gun3
+    400014: Gun4
+    400016: Gun5
+    400018: Gun6
+    400020: Lamp
+    400022: Misc1
+    400024: //RootNode
+    400026: Radar1
+    400028: RotateFitter
+    400030: Turret1
+    400032: Turret2
+    400034: Turret2MissilePod
+    400036: Turret3
+    400038: Turret4
+    400040: TurretD1
+    400042: TurretD1Sub
+    400044: TurretD2
+    400046: TurretD2Sub
+    2300000: Antenna1
+    2300002: Antenna2
+    2300004: Base1
+    2300006: Gun1
+    2300008: Gun2
+    2300010: Gun3
+    2300012: Gun4
+    2300014: Gun5
+    2300016: Gun6
+    2300018: Misc1
+    2300020: Radar1
+    2300022: RotateFitter
+    2300024: Turret1
+    2300026: Turret2
+    2300028: Turret2MissilePod
+    2300030: Turret3
+    2300032: Turret4
+    2300034: TurretD1
+    2300036: TurretD1Sub
+    2300038: TurretD2
+    2300040: TurretD2Sub
+    3300000: Antenna1
+    3300002: Antenna2
+    3300004: Base1
+    3300006: Gun1
+    3300008: Gun2
+    3300010: Gun3
+    3300012: Gun4
+    3300014: Gun5
+    3300016: Gun6
+    3300018: Misc1
+    3300020: Radar1
+    3300022: RotateFitter
+    3300024: Turret1
+    3300026: Turret2
+    3300028: Turret2MissilePod
+    3300030: Turret3
+    3300032: Turret4
+    3300034: TurretD1
+    3300036: TurretD1Sub
+    3300038: TurretD2
+    3300040: TurretD2Sub
+    4300000: Turret2MissilePod
+    4300002: Turret4
+    4300004: TurretD2Sub
+    4300006: Turret1
+    4300008: Turret2
+    4300010: Base1
+    4300012: Turret3
+    4300014: TurretD2
+    4300016: TurretD1
+    4300018: TurretD1Sub
+    4300020: Radar1
+    4300022: Antenna2
+    4300024: Antenna1
+    4300026: RotateFitter
+    4300028: Gun6
+    4300030: Gun5
+    4300032: Gun4
+    4300034: Gun3
+    4300036: Gun2
+    4300038: Gun1
+    4300040: Misc1
+    7400002: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 1
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

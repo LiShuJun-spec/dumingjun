@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 5b4ed806229798a479707e43e85deae4
+labels:
+- modular
+- sci-fi
+- tdtk
+- turret
+- vehicle
+- tank
+- drone
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Gun1
+    100002: Gun2
+    100004: Gun3
+    100006: Gun4
+    100008: Gun5
+    100010: Gun6
+    100012: Turret1
+    100014: Turret2
+    100016: Turret3
+    100018: Turret4
+    100020: Turret5
+    100022: Turret6
+    100024: Turret7
+    100026: Turret8
+    100028: Turret9
+    100030: //RootNode
+    400000: Gun1
+    400002: Gun2
+    400004: Gun3
+    400006: Gun4
+    400008: Gun5
+    400010: Gun6
+    400012: Turret1
+    400014: Turret2
+    400016: Turret3
+    400018: Turret4
+    400020: Turret5
+    400022: Turret6
+    400024: Turret7
+    400026: Turret8
+    400028: Turret9
+    400030: //RootNode
+    2300000: Gun1
+    2300002: Gun2
+    2300004: Gun3
+    2300006: Gun4
+    2300008: Gun5
+    2300010: Gun6
+    2300012: Turret1
+    2300014: Turret2
+    2300016: Turret3
+    2300018: Turret4
+    2300020: Turret5
+    2300022: Turret6
+    2300024: Turret7
+    2300026: Turret8
+    2300028: Turret9
+    3300000: Gun1
+    3300002: Gun2
+    3300004: Gun3
+    3300006: Gun4
+    3300008: Gun5
+    3300010: Gun6
+    3300012: Turret1
+    3300014: Turret2
+    3300016: Turret3
+    3300018: Turret4
+    3300020: Turret5
+    3300022: Turret6
+    3300024: Turret7
+    3300026: Turret8
+    3300028: Turret9
+    4300000: Gun2
+    4300002: Turret3
+    4300004: Turret5
+    4300006: Turret4
+    4300008: Turret6
+    4300010: Turret2
+    4300012: Gun4
+    4300014: Turret7
+    4300016: Turret9
+    4300018: Turret8
+    4300020: Gun6
+    4300022: Gun1
+    4300024: Gun5
+    4300026: Gun3
+    4300028: Turret1
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

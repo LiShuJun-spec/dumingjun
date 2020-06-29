@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: a788e575eab48944191efe267345d93e
+labels:
+- box
+- container
+- modular
+- sci-fi
+- freighter
+- transport
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Container1
+    100002: Container2
+    100004: Container3
+    100006: Freighter1
+    100008: Freighter2
+    100010: Freighter3
+    100012: //RootNode
+    100014: FreighterTail1
+    100016: FreighterTail2
+    100018: FreighterTail3
+    400000: Container1
+    400002: Container2
+    400004: Container3
+    400006: Freighter1
+    400008: Freighter2
+    400010: Freighter3
+    400012: //RootNode
+    400014: FreighterTail1
+    400016: FreighterTail2
+    400018: FreighterTail3
+    2300000: Container1
+    2300002: Container2
+    2300004: Container3
+    2300006: Freighter1
+    2300008: Freighter2
+    2300010: Freighter3
+    2300012: FreighterTail1
+    2300014: FreighterTail2
+    2300016: FreighterTail3
+    3300000: Container1
+    3300002: Container2
+    3300004: Container3
+    3300006: Freighter1
+    3300008: Freighter2
+    3300010: Freighter3
+    3300012: FreighterTail1
+    3300014: FreighterTail2
+    3300016: FreighterTail3
+    4300000: Container1
+    4300002: Freighter2
+    4300004: Container2
+    4300006: Freighter3
+    4300008: FreighterTail1
+    4300010: Container3
+    4300012: FreighterTail3
+    4300014: Freighter1
+    4300016: FreighterTail2
+    7400004: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

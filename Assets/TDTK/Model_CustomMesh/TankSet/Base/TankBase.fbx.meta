@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 1f194875565d1de4d8f36168639807f1
+labels:
+- drone
+- modular
+- sci-fi
+- tank
+- tdtk
+- turret
+- vehicle
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Drone1
+    100002: Drone2
+    100004: //RootNode
+    100006: TankBase1
+    100008: TankBase2
+    100010: TankBase3
+    100012: TankBase4
+    100014: TankBase5
+    100016: TankBase6
+    400000: Drone1
+    400002: Drone2
+    400004: //RootNode
+    400006: TankBase1
+    400008: TankBase2
+    400010: TankBase3
+    400012: TankBase4
+    400014: TankBase5
+    400016: TankBase6
+    2300000: Drone1
+    2300002: Drone2
+    2300004: TankBase1
+    2300006: TankBase2
+    2300008: TankBase3
+    2300010: TankBase4
+    2300012: TankBase5
+    2300014: TankBase6
+    3300000: Drone1
+    3300002: Drone2
+    3300004: TankBase1
+    3300006: TankBase2
+    3300008: TankBase3
+    3300010: TankBase4
+    3300012: TankBase5
+    3300014: TankBase6
+    4300000: Drone2
+    4300002: Drone1
+    4300004: TankBase1
+    4300006: TankBase2
+    4300008: TankBase3
+    4300010: TankBase4
+    4300012: TankBase5
+    4300014: TankBase6
+    7400000: Default Take
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
